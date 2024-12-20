@@ -1,7 +1,6 @@
 # ignore all logs
 .vscode/
 public/
-config/*
 resources/
 *.log
 node_modules/
