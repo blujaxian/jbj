@@ -5,6 +5,7 @@ genres = ['introduction']
 tags = ['intro', 'linux', 'programming', 'development', 'cybersecurity']
 title = 'Welcom to the playground...of sorts'
 weight = 10
+showSummary = true
 [params]
   author = 'blujaxian'
 +++
