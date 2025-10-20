@@ -5,6 +5,7 @@ genres = ['site-update']
 tags = ['life', 'site', 'updates', 'reflex', 'python', 'hugo', 'cybersecurity', 'raspberry pi', 'art', 'family']
 title = 'Latest Life and Site Updates'
 weight = 10
+showSummary = true
 [params]
   author = 'blujaxian'
 +++
